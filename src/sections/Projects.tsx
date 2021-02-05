@@ -11,7 +11,7 @@ const Projects = () => {
 
   return (
     <Section.Container id="projects" Background={Background}>
-      <Section.Header name="Projects" icon="💻" label="notebook" />
+      <Section.Header name="Experience" icon="💻" label="notebook" />
 
       <CardContainer minWidth="350px">
         <Fade direction="down" cascade damping={0.5} triggerOnce>

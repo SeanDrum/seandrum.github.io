@@ -11,14 +11,14 @@ const BASE_THEME = preset as Theme;
 const theme: Theme = {
   ...BASE_THEME,
   colors: {
-    background: '#FFFFFF',
-    muted: '#f0e6f6',
-    gray: '#ddd',
-    text: '#333333',
+    background: '#eeeeee',//most of the background not already a shape
+    muted: '#00adb5',//tiny triangle at top and smaller shapes throughout
+    gray: '#ddd',//honestly not sure
+    text: '#111111',
 
-    primary: '#7c37ad',
-    secondary: '#ff4081',
-    highlight: '#ff79b0',
+    primary: '#333b47',//title text, top right triangle
+    secondary: '#6991d1',//top left triangle and left accent shapes
+    highlight: '#202085',//fills bar as an animation on projects - very slight
   },
   queries: {
     xs: '@media screen and (max-width: 40em)',

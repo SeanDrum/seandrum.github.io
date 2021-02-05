@@ -10,7 +10,7 @@ const ImageLabel = styled(Box)<Props>`
   position: absolute;
   display: inline;
   padding: 10px;
-  font-size: 14px;
+  font-size: 10px;
   font-weight: 600;
   text-transform: uppercase;
 

@@ -40,9 +40,7 @@ const Project = ({
               float: 'right',
             }}
           >
-            <Box mx={1} fontSize={4}>
-              <SocialLink name="Repository" icon="github" url={repository} />
-            </Box>
+
             <Box mx={1} fontSize={4}>
               <SocialLink name="Homepage" icon="globe" url={homepage} />
             </Box>

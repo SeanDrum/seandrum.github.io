@@ -9,7 +9,7 @@ type Props = {
 
 const Helmet = ({ theme }: Props) => {
   const { name, description, profile } = useHelmetQuery();
-  const title = `${name} Portfolio`;
+  const title = `${name} | Product, Engineering, Self-Deprecating Humor`;
 
   console.log(`https:${profile.bigIcon.src}`);
 

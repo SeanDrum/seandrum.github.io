@@ -7,6 +7,7 @@ import {
 import {
   faMedium,
   faTwitter,
+  faLinkedin,
   faGithub,
   prefix as brandPrefix,
 } from '@fortawesome/free-brands-svg-icons';
@@ -18,7 +19,7 @@ import {
 } from '@fortawesome/free-solid-svg-icons';
 
 export const loadIcons = () =>
-  library.add(faMedium, faTwitter, faGithub, faGlobe, faEnvelope, faCoffee);
+  library.add(faMedium, faTwitter, faLinkedin, faGithub, faGlobe, faEnvelope, faCoffee);
 
 export const getIconDefinition = (
   iconName: IconName,

@@ -20,16 +20,16 @@ const LandingPage = () => {
         textAlign="center"
         as="h1"
         color="primary"
-        fontSize={[6, 7]}
+        fontSize={[5, 7]}
         mb={[3, 4, 5]}
       >
-        {`Hello, I'm ${name}!`}
+        {`Hi there, I'm ${name}.`}
       </Heading>
 
       <Heading
         as="h2"
         color="primary"
-        fontSize={[5, 6]}
+        fontSize={[1, 5]}
         mb={[3, 5]}
         textAlign="center"
         style={centerHorizontally}
@@ -38,7 +38,9 @@ const LandingPage = () => {
           {roles
             .sort(() => (deterministic ? 1 : Math.random() - 0.5))
             .map((text) => (
-              <Text width={[300, 500]} key={text}>
+              <Text 
+                width={[300, 500]}
+                key={text}>
                 {text}
               </Text>
             ))}
