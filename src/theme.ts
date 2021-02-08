@@ -12,12 +12,12 @@ const theme: Theme = {
   ...BASE_THEME,
   colors: {
     background: '#eeeeee',//most of the background not already a shape
-    muted: '#00adb5',//tiny triangle at top and smaller shapes throughout
+    muted: '#fcbf1e',//tiny triangle at top and smaller shapes throughout
     gray: '#ddd',//honestly not sure
     text: '#111111',
 
-    primary: '#333b47',//title text, top right triangle
-    secondary: '#6991d1',//top left triangle and left accent shapes
+    primary: '#120136',//title text, top right triangle
+    secondary: '#035aa6',//top left triangle and left accent shapes
     highlight: '#202085',//fills bar as an animation on projects - very slight
   },
   queries: {
