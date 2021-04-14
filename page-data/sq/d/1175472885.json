@@ -1,1 +1,55 @@
-{"data":{"site":{"siteMetadata":{"isMediumUserDefined":true}},"mediumUser":{"id":"92ea76d3-b551-5215-9ea9-a52c337ef256","name":"Sean Drummy","username":"seandrummy","posts":[{"id":"088e53fc-7d77-5f51-8d92-cdba0aac9853","uniqueSlug":"coding-bootcamps-and-the-pitfalls-of-course-based-portfolio-website-c7c894227663","title":"Coding Bootcamps and the Pitfalls of Course-Based Portfolio Website","createdAt":"Feb 2021","virtuals":{"subtitle":"Recently I’ve been doing a lot of interviewing and hiring for software engineers. Like, a lot. It’s been an interesting experience. While…","readingTime":4.188679245283018,"previewImage":{"imageId":"1*EGW_rQE2QQ8pvFQl3o-wOg.jpeg"}}},{"id":"6b6cfd38-0119-5607-bd50-3e49c90b5bc9","uniqueSlug":"out-from-the-cold-a-simple-guide-to-avoiding-cold-boots-by-warming-your-aws-lambda-functions-66af38f286a0","title":"Out from the Cold — A Simple Guide To Avoiding Cold Boots by Warming Your AWS Lambda Functions","createdAt":"Feb 2021","virtuals":{"subtitle":"Dreaded “cold boot” got your application showing the loading spinner? Let’s use Python and CloudWatch to keep those Lambda functions…","readingTime":4.760691823899371,"previewImage":{"imageId":"1*piHox7Pi5Wsxykf5OiYLAQ.jpeg"}}}]}}}
+{
+    "data": {
+        "site": {
+            "siteMetadata": {
+                "isMediumUserDefined": true
+            }
+        },
+        "mediumUser": {
+            "id": "92ea76d3-b551-5215-9ea9-a52c337ef256",
+            "name": "Sean Drummy",
+            "username": "seandrummy",
+            "posts": [
+                {
+                    "id": "35591074-6608-5f64-9baf-e161117afbab",
+                    "uniqueSlug": "unofficial-documentation-for-the-draft-kings-api-8830f8e8c7fc",
+                    "title": "Unofficial Documentation for the Draft Kings API",
+                    "createdAt": "Apr 2021",
+                    "virtuals": {
+                        "subtitle": "Unofficial documentation for the Draft Kings API. If you can write a script or two and are sick of downloading CSV files, read on!",
+                        "readingTime": 3.29811320754717,
+                        "previewImage": {
+                            "imageId": "1*Kj2H0ip8Uf3aC0SmYng3qQ.jpeg"
+                        }
+                    }
+                },
+                {
+                    "id": "088e53fc-7d77-5f51-8d92-cdba0aac9853",
+                    "uniqueSlug": "coding-bootcamps-and-the-pitfalls-of-course-based-portfolio-website-c7c894227663",
+                    "title": "Coding Bootcamps and the Pitfalls of Course-Based Portfolio Website",
+                    "createdAt": "Feb 2021",
+                    "virtuals": {
+                        "subtitle": "Recently I’ve been doing a lot of interviewing and hiring for software engineers. Like, a lot. It’s been an interesting experience. While…",
+                        "readingTime": 4.188679245283018,
+                        "previewImage": {
+                            "imageId": "1*EGW_rQE2QQ8pvFQl3o-wOg.jpeg"
+                        }
+                    }
+                },
+                {
+                    "id": "6b6cfd38-0119-5607-bd50-3e49c90b5bc9",
+                    "uniqueSlug": "out-from-the-cold-a-simple-guide-to-avoiding-cold-boots-by-warming-your-aws-lambda-functions-66af38f286a0",
+                    "title": "Out from the Cold — A Simple Guide To Avoiding Cold Boots by Warming Your AWS Lambda Functions",
+                    "createdAt": "Feb 2021",
+                    "virtuals": {
+                        "subtitle": "Dreaded “cold boot” got your application showing the loading spinner? Let’s use Python and CloudWatch to keep those Lambda functions…",
+                        "readingTime": 4.760691823899371,
+                        "previewImage": {
+                            "imageId": "1*piHox7Pi5Wsxykf5OiYLAQ.jpeg"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}
